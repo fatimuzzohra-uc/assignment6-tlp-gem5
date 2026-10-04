@@ -1,0 +1,19 @@
+# Compiled executables
+daxpy
+daxpy_baseline_65536
+daxpy_tlp
+daxpy_pthread
+daxpy_core
+multicore_test
+
+# gem5 simulation outputs
+m5out/
+results/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
+*.tmp
